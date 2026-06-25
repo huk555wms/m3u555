@@ -1,0 +1,166 @@
+#EXTM3U   tvg-url="https://doas.top/epg2d.xmltv" 
+
+#EXTINF:-1 ,Первый канал
+http://31.131.141.195:8000/play/1010/index.m3u8
+
+#EXTINF:-1  ,Россия 1 (Саратов)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8
+
+#EXTINF:-1  ,Россия 1 / ГТРК Саратов HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8
+
+#EXTINF:-1  ,РОССИЯ 24 (САРАТОВ)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia24-sd/index.m3u8
+
+#EXTINF:-1 ,Саратов 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=VFpR056jrd1nUa_OHAGoIw&e=2075976691&scheme=https
+
+#EXTINF:-1 tvg-id="ntv", НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-id="voleybol"  tvg-logo="https://iptvx.one/picons/voleybol.png" ,Волейбол HD
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=62YA56HThqaPRiNQeIIuFA&e=2066519932&scheme=https
+
+#EXTINF:-1 ,Матч!
+http://tv.tuva.ru/machtv/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/de/ab393bef44b80dc1d57351855763b4de.png", РОССИЯ 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+
+#EXTINF:-1, Россия 24
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+
+#EXTINF:-1 tvg-id="saratov-24",Саратов-24
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
+
+#EXTINF:-1  tvg-id="dialogi-o-rybalke"  tvg-logo="http://epg.it999.ru/img2/2627.png" ,Диалоги о рыбалке
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
+
+#EXTINF:-1 , Диалоги о Рыбалке
+https://mhd128.iptv2022.com/p/F1VoQbns2NxhDMEFuUYliA,1780556395/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1  tvg-id="oxota-i-rybalka" ,Охота и Рыбалка
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-id="oxotnik-i-rybolov-hd" ,Охотник и Рыболов HD
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Охотник и Рыболов Int HD", Охотник и рыболов International HD
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Yy4ehw-YB7ZiY2SyvFot-w&e=2066519762&scheme=https
+drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjM2MDYxMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNzU1ODEyLCJzZXNzaW9uX2lkIjoiNDJiNGZiMzZjZGFjZTEyNmFiNGNlNjFkNjUwZDhiZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.x79L4zgowwhi_W-8WanyVc12NFAQBNVhQHKewh6HbpE
+
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/6392/index.m3u8
+
+#EXTINF:-1 ,Мосфильм. Золотая коллекция +4 HD
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/17022/index.m3u8
+
+#EXTINF:-1 ,VF Мосфильм
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/10084/index.m3u8
+
+#EXTINF:-1 tvg-id="neizvestnaya-planeta" catchup="flussonic" catchup-days="0" tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-planeta.png",Неизвестная планета HD
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-rosia.png",Неизвестная Россия HD
+http://cdn.balelbrus.com/bigteisti9/unknown_Russia/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+
+#EXTINF:-1 ,RU Бобер
+https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
+
+#EXTINF:-1 ,В мире животных HD
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/2089/index.m3u8
+
+#EXTINF:-1,Моя Планета HD
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/2090/index.m3u8
+
+#EXTINF:-1 ,Приключения HD
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/920/index.m3u8
+
+#EXTINF:-1 ,Глазами Туриста HD
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/2104/index.m3u8
+
+#EXTINF:-1 ,Загородный int HD
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/2124/index.m3u8
+
+#EXTINF:-1 ,Твоё ТВ - Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+
+#EXTINF:-1 ,Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="pobeda" ,Победа
+http://193.25.8.59:8000/tochka
+
+#EXTINF:-1  tvg-id="arsenaltv" ,Арсенал
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Арена HD" tvg-logo="" ,Матч! Арена HD
+http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
+
+#EXTINF:0 tvg-id="2050" tvg-name="Матч! Игра [FHD]" tvg-logo="http://epg.one/img2/2050.png" ,Матч! Игра [FHD]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/2406/index.m3u8
+
+#EXTINF:0 tvg-id="2050" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" ,Матч! Игра
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/529/index.m3u8
+
+#EXTINF:-1 ,Eurosport 1 orig
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/9247/index.m3u8
+
+#EXTINF:0 tvg-id="4313" tvg-name="Eurosport 2 [HD]" tvg-logo="http://epg.one/img/4313.png" ,Eurosport 2 [HD]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/234/index.m3u8
+
+#EXTINF:0 tvg-id="4313" tvg-name="Eurosport 2 HD Orig" tvg-logo="http://epg.one/img/4313.png" ,Eurosport 2 HD Orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/5076/index.m3u8
+
+#EXTINF:-1 ,Матч! Страна
+http://45.145.32.13:20440/match_strana/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-xit.png", НТВ ХИТ
+http://cdn2.ntv.ru/th_hit/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-serial.png", НТВ СЕРИАЛ
+http://cdn2.ntv.ru/th_serial/playlist.m3u8
+
+#EXTINF:-1 , Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+
+#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС", Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="zvezda-plus", Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
+
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/picons/match-premiere.png", МАТЧ! Премьер
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+
+#EXTINF:-1  tvg-id="match-football1"   tvg-name="Матч! Футбол 1 HD",МАТЧ! ФУТБОЛ 1 ᴴᴰ
+http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
+
+#EXTINF:-1  tvg-id="match-football2" ,МАТЧ! ФУТБОЛ 2 ᴴᴰ
+http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
+
+#EXTINF:-1  tvg-id="match-football3" ,МАТЧ! ФУТБОЛ 3 ᴴᴰ
+http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
+
+#EXTINF:-1 ,НТВ (+1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
+
+#EXTINF:-1 ,НТВ +1
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 ,Первый канал (+1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+
+#EXTINF:-1 ,Россия 1 (+1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+
+#EXTINF:-1 , Диалоги о рыбалке
+http://217.174.229.136:8000/play/a08w
+
+#EXTINF:0 ,Диалоги О Рыбалке
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2394/index.m3u8
+
+#EXTINF:0 ,Диалоги О Рыбалке
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/2394/index.m3u8
+#EXT-X-ENDLIST
