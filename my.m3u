@@ -31,21 +31,45 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1, Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 
+#EXTINF:-1 tvg-id="kultura" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/kultura.png",Россия К HD
+http://cdn.balelbrus.com/bigteisti6/rossiya_k/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+
 #EXTINF:-1 tvg-id="saratov-24",Саратов-24
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
+
+#EXTINF:-1 tvg-id="rentv" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/rentv.png",РЕН ТВ HD
+http://cdn.balelbrus.com/bigteisti10/RENTV/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+
+#EXTINF:-1 tvg-id="5kanal-ru" catchup="flussonic" catchup-days="3" tvg-logo="https://iptvx.one/assets/files/2025-03-30/1743352183-254631-5tvruhd200.png",Пятый канал HD
+http://cdn.balelbrus.com/bigteisti2/PIATIY/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+
+#EXTINF:-1 tvg-id="sts" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/sts.png",СТС HD
+http://cdn.balelbrus.com/bigteisti8/STS_HD/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+
+#EXTINF:-1 tvg-id="domashny" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/domashny.png",Домашний HD
+http://cdn.balelbrus.com/bigteisti10/DOM/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+
+#EXTINF:-1 tvg-id="tnt" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/tnt.png",ТНТ HD
+http://live.uspeh-bil.ru/8311/video.m3u8?token=UBwVqZcPL8UPmoYU
 
 #EXTINF:0 , Диалоги О Рыбалке
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/2394/index.m3u8
 
-#EXTINF:-1  tvg-id="oxota-i-rybalka" ,Охота и Рыбалка
-https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="oxota-i-rybalka" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/oxota-i-rybalka.png",Охота и рыбалка HD
+http://cdn.balelbrus.com/bigteisti10/OHOTAIRIBALKA/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 
-#EXTINF:-1  tvg-id="oxotnik-i-rybolov-hd" ,Охотник и Рыболов HD
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="1681" tvg-name="Охотник И Рыболов [HD]" tvg-logo="http://epg.one/img/1681.png" ,Охотник И Рыболов [HD]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/917/index.m3u8
 
 #EXTINF:-1 tvg-id="Охотник и Рыболов Int HD", Охотник и рыболов International HD
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Yy4ehw-YB7ZiY2SyvFot-w&e=2066519762&scheme=https
 drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3MjM2MDYxMiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNzU1ODEyLCJzZXNzaW9uX2lkIjoiNDJiNGZiMzZjZGFjZTEyNmFiNGNlNjFkNjUwZDhiZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.x79L4zgowwhi_W-8WanyVc12NFAQBNVhQHKewh6HbpE
+
+#EXTINF:-1 tvg-id="rybalka-i-oxota" catchup="flussonic" catchup-days="0" timeshift="3" tvg-logo="https://epg.iptvx.one/picons/rybalka-i-oxota.png",Рыбалка и охота HD
+http://94.250.255.172/ptv/kztelecom/ch.php?id=65cdeeb9d1912468fa9ce6d3
+
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="3" tvg-logo="https://1tourtv.ru/wp-content/uploads/2023/11/%D0%BB%D0%BE%D0%B3%D0%BE-%D1%86.png",Первый туристический HD
+http://91.186.196.185/hls/hotels/stream.m3u8
 
 #EXTINF:0 tvg-id="3357" tvg-name="Мосфильм. Золотая Коллекция [HD]" tvg-logo="http://epg.one/img2/3357.png" ,Мосфильм. Золотая Коллекция [HD]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2PCDLY8XPGWTT4/7347/index.m3u8
