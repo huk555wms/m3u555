@@ -68,6 +68,9 @@ drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xh
 #EXTINF:-1 tvg-id="rybalka-i-oxota" catchup="flussonic" catchup-days="0" timeshift="3" tvg-logo="https://epg.iptvx.one/picons/rybalka-i-oxota.png",Рыбалка и охота HD
 http://94.250.255.172/ptv/kztelecom/ch.php?id=65cdeeb9d1912468fa9ce6d3
 
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/oxotnik-i-rybolov.png",Рыболов
+http://tchaikovsky.af-stream.com:8080/s/whxqyupu/ohotnik-rybolov/video.m3u8
+
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="3" tvg-logo="https://1tourtv.ru/wp-content/uploads/2023/11/%D0%BB%D0%BE%D0%B3%D0%BE-%D1%86.png",Первый туристический HD
 http://91.186.196.185/hls/hotels/stream.m3u8
 
@@ -112,6 +115,9 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" ,Победа
 http://193.25.8.59:8000/tochka
+
+#EXTINF:-1 tvg-id="pobeda" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/pobeda.png",Победа HD
+http://cdn.balelbrus.com/bigteisti8/POBEDA/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 
 #EXTINF:-1  tvg-id="arsenaltv" ,Арсенал
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
