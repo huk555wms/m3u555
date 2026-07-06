@@ -16,8 +16,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia24-sd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=VFpR056jrd1nUa_OHAGoIw&e=2075976691&scheme=https
 
-#EXTINF:-1 tvg-id="ntv", НТВ HD
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ HD
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1  tvg-id="voleybol"  tvg-logo="https://iptvx.one/picons/voleybol.png" ,Волейбол HD
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=62YA56HThqaPRiNQeIIuFA&e=2066519932&scheme=https
@@ -37,17 +37,17 @@ http://cdn.balelbrus.com/bigteisti6/rossiya_k/index.m3u8?token=eG1lbnRzMnx8V0RnN
 #EXTINF:-1 tvg-id="saratov-24",Саратов-24
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
 
-#EXTINF:-1 tvg-id="rentv" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/rentv.png",РЕН ТВ HD
-http://cdn.balelbrus.com/bigteisti10/RENTV/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" ,РЕН ТВ HD
+http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODM0MDcwNzgsImlhdCI6MTc4MzMyMDY3OCwiY2lkIjo2LCJ1aWQiOjEwNjMzNzE0ODAsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.sOF3wCmjG3A3tzakE9ptfM1tCyThUATSlCGVV94kucQ&offset=10
 
-#EXTINF:-1 tvg-id="5kanal-ru" catchup="flussonic" catchup-days="3" tvg-logo="https://iptvx.one/assets/files/2025-03-30/1743352183-254631-5tvruhd200.png",Пятый канал HD
-http://cdn.balelbrus.com/bigteisti2/PIATIY/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/3/logo_256.webp", Пятый канал
+https://mhd116.iptv2022.com/x/Y9hHoVH_Oj3xUCMUBgUSRg,1783407076/streaming/5kanalott/324/5/index.m3u8
 
-#EXTINF:-1 tvg-id="sts" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/sts.png",СТС HD
-http://cdn.balelbrus.com/bigteisti8/STS_HD/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 , СТС HD
+https://mhd116.iptv2022.com/x/yxW6djF1t4GSuv7v1TR12Q,1783407076/streaming/stsott/324/5/index.m3u8
 
-#EXTINF:-1 tvg-id="domashny" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/domashny.png",Домашний HD
-http://cdn.balelbrus.com/bigteisti10/DOM/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 , Домашний
+http://46.32.176.50/domashniy/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/tnt.png",ТНТ HD
 http://live.uspeh-bil.ru/8311/video.m3u8?token=UBwVqZcPL8UPmoYU
@@ -58,8 +58,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/2394/inde
 #EXTINF:-1 tvg-id="oxota-i-rybalka" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/oxota-i-rybalka.png",Охота и рыбалка HD
 http://cdn.balelbrus.com/bigteisti10/OHOTAIRIBALKA/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 
-#EXTINF:0 tvg-id="1681" tvg-name="Охотник И Рыболов [HD]" tvg-logo="http://epg.one/img/1681.png" ,Охотник И Рыболов [HD]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/917/index.m3u8
+#EXTINF:0 tvg-rec="7",Охотник и Рыболов HD
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/917/index.m3u8
 
 #EXTINF:-1 tvg-id="Охотник и Рыболов Int HD", Охотник и рыболов International HD
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Yy4ehw-YB7ZiY2SyvFot-w&e=2066519762&scheme=https
