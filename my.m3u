@@ -130,6 +130,15 @@ http://cdn.balelbrus.com/bigteisti8/POBEDA/index.m3u8?token=eG1lbnRzMnx8V0RnNU1E
 #EXTINF:-1  tvg-id="arsenaltv" ,Арсенал
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,Арсенал
+http://37.186.70.39:40/play/48/index.m3u8
+
+#EXTINF:-1 , Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+
+#EXTINF:-1 tvg-id="zvezda-plus", Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Арена HD" tvg-logo="" ,Матч! Арена HD
 http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
 
@@ -142,6 +151,15 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/529/index
 #EXTINF:-1  tvg-logo="https://epg.iptvx.one/picons/match-premiere.png", МАТЧ! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 
+#EXTINF:0 tvg-rec="0",Окко Спорт HD
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/20138/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Окко Прайм Спорт HD
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/20135/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Окко Футбол HD
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/6554/index.m3u8
+
 #EXTINF:-1 ,Eurosport 1 orig
 http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/9247/index.m3u8
 
@@ -150,12 +168,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/234/index
 
 #EXTINF:-1 ,Матч! Страна
 http://45.145.32.13:20440/match_strana/index.m3u8?token=test
-
-#EXTINF:-1 , Звезда
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-
-#EXTINF:-1 tvg-id="zvezda-plus", Звезда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 
 #EXTINF:0 ,Диалоги О Рыбалке
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2394/index.m3u8
