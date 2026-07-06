@@ -3,10 +3,7 @@
 #EXTINF:-1 ,Первый канал
 http://31.131.141.195:8000/play/1010/index.m3u8
 
-#EXTINF:-1  ,Россия 1 (Саратов)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8
-
-#EXTINF:-1  ,Россия 1 / ГТРК Саратов HD
+#EXTINF:-1  ,Россия 1 /Саратов HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8
 
 #EXTINF:-1  ,РОССИЯ 24 (САРАТОВ)
@@ -16,8 +13,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia24-sd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=VFpR056jrd1nUa_OHAGoIw&e=2075976691&scheme=https
 
-#EXTINF:-1 ,НТВ HD
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-rec="3",НТВ HD 
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/9028/index.m3u8
 
 #EXTINF:-1  tvg-id="voleybol"  tvg-logo="https://iptvx.one/picons/voleybol.png" ,Волейбол HD
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=62YA56HThqaPRiNQeIIuFA&e=2066519932&scheme=https
@@ -95,8 +92,8 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-rosia.png",Неизвестная Россия HD
 http://cdn.balelbrus.com/bigteisti9/unknown_Russia/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 
-#EXTINF:-1 ,RU Бобер
-https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
+#EXTINF:0 tvg-rec="7",Бобёр
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/725/index.m3u8
 
 #EXTINF:-1 ,В мире животных HD
 http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/2089/index.m3u8
@@ -137,6 +134,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK
 #EXTINF:0 tvg-id="2050" tvg-name="Матч! Игра" tvg-logo="http://epg.one/img/2050.png" ,Матч! Игра
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/529/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/picons/match-premiere.png", МАТЧ! Премьер
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+
 #EXTINF:-1 ,Eurosport 1 orig
 http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/9247/index.m3u8
 
@@ -146,43 +146,13 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/234/index
 #EXTINF:-1 ,Матч! Страна
 http://45.145.32.13:20440/match_strana/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-xit.png", НТВ ХИТ
-http://cdn2.ntv.ru/th_hit/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-serial.png", НТВ СЕРИАЛ
-http://cdn2.ntv.ru/th_serial/playlist.m3u8
-
 #EXTINF:-1 , Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-
-#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС", Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="zvezda-plus", Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 
-#EXTINF:-1  tvg-logo="https://epg.iptvx.one/picons/match-premiere.png", МАТЧ! Премьер
-https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
-
-#EXTINF:-1 ,НТВ (+1)
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
-
-#EXTINF:-1 ,НТВ +1
-https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 ,Первый канал (+1)
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
-
-#EXTINF:-1 ,Россия 1 (+1)
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-
-#EXTINF:-1 , Диалоги о рыбалке
-http://217.174.229.136:8000/play/a08w
-
 #EXTINF:0 ,Диалоги О Рыбалке
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2394/index.m3u8
-
-#EXTINF:-1  tvg-id="dialogi-o-rybalke"  tvg-logo="http://epg.it999.ru/img2/2627.png" ,Диалоги о рыбалке
-http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
 
 #EXT-X-ENDLIST
