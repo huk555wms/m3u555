@@ -16,7 +16,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia24-sd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=VFpR056jrd1nUa_OHAGoIw&e=2075976691&scheme=https
 
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ HD
+#EXTINF:-1 ,НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1  tvg-id="voleybol"  tvg-logo="https://iptvx.one/picons/voleybol.png" ,Волейбол HD
