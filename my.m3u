@@ -16,6 +16,10 @@ https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=VF
 #EXTINF:0 tvg-rec="3",НТВ HD 
 http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/9028/index.m3u8
 
+#EXTINF:-1 ,НТВ +1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+
 #EXTINF:-1  tvg-id="voleybol"  tvg-logo="https://iptvx.one/picons/voleybol.png" ,Волейбол HD
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=62YA56HThqaPRiNQeIIuFA&e=2066519932&scheme=https
 
@@ -89,8 +93,9 @@ http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/10084/index.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-planeta" catchup="flussonic" catchup-days="0" tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-planeta.png",Неизвестная планета HD
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 
-#EXTINF:-1 tvg-id="neizvestnaya-rosia" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-rosia.png",Неизвестная Россия HD
-http://cdn.balelbrus.com/bigteisti9/unknown_Russia/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 ,Неизвестная Россия HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
 #EXTINF:0 tvg-rec="7",Бобёр
 http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/725/index.m3u8
