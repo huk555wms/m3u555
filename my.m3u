@@ -20,6 +20,12 @@ http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/9028/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
 
+#EXTINF:0 tvg-rec="0",НТВ Хит HD
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/16062/index.m3u8
+
+#EXTINF:0 tvg-id="1754" tvg-logo="http://epg.one/img2/1754.png" tvg-rec="7",НТВ Сериал
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5Q4C28P3MTRWXGKSVFHZMS6S/744/index.m3u8
+
 #EXTINF:-1  tvg-id="voleybol"  tvg-logo="https://iptvx.one/picons/voleybol.png" ,Волейбол HD
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=62YA56HThqaPRiNQeIIuFA&e=2066519932&scheme=https
 
@@ -37,6 +43,9 @@ http://31.131.141.195:8000/play/1060/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" ,РЕН ТВ HD
 http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODM0MDcwNzgsImlhdCI6MTc4MzMyMDY3OCwiY2lkIjo2LCJ1aWQiOjEwNjMzNzE0ODAsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.sOF3wCmjG3A3tzakE9ptfM1tCyThUATSlCGVV94kucQ&offset=10
+
+#EXTINF:0 tvg-id="18" tvg-logo="http://epg.one/img2/18.png" tvg-rec="7",РЕН ТВ HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5Q4C28P3MTRWXGKSVFHZMS6S/2024/index.m3u8
 
 #EXTINF:0 tvg-rec="7",Пятый канал
 http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/112/index.m3u8
