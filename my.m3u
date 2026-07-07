@@ -24,7 +24,8 @@ https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
 http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/16062/index.m3u8
 
 #EXTINF:-1 ,НТВ Сериал
-http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1  tvg-id="voleybol"  tvg-logo="https://iptvx.one/picons/voleybol.png" ,Волейбол HD
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=62YA56HThqaPRiNQeIIuFA&e=2066519932&scheme=https
