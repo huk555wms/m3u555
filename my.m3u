@@ -179,4 +179,16 @@ http://45.145.32.13:20440/match_strana/index.m3u8?token=test
 #EXTINF:0 ,Диалоги О Рыбалке
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2394/index.m3u8
 
+#EXTINF:-1 tvg-id="ntv-pl1",НТВ (Саратов)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="ntv-pl1",НТВ (Самара)
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+
+#EXTINF:-1  tvg-id="ntv-pl1",НТВ (Астрахань)
+https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+
+#EXTINF:-1  tvg-id="ntv-pl1",НТВ (Ульяновск)
+https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+
 #EXT-X-ENDLIST
