@@ -191,8 +191,4 @@ https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 
-#EXTINF:-1 group-title="Ульяновск" tvg-id="ntv-pl1",НТВ (Ульяновск)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-
 #EXT-X-ENDLIST
