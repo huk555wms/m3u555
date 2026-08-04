@@ -180,15 +180,19 @@ http://45.145.32.13:20440/match_strana/index.m3u8?token=test
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2394/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv-pl1",НТВ (Саратов)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 
 #EXTINF:-1 tvg-id="ntv-pl1",НТВ (Самара)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 
 #EXTINF:-1  tvg-id="ntv-pl1",НТВ (Астрахань)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 
 #EXTINF:-1  tvg-id="ntv-pl1",НТВ (Ульяновск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 
 #EXT-X-ENDLIST
