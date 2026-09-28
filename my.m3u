@@ -1,13 +1,16 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
 
-#EXTINF:-1 ,Первый канал
-http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1 tvg-id="pervy-pl1",Первый (Саратов)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 
-#EXTINF:-1  ,Россия 1 /Саратов HD
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl1",Россия 1 (Саратов)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 
-#EXTINF:-1  ,РОССИЯ 24 (САРАТОВ)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="rossia-24",Россия 24 (Саратов)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 
 #EXTINF:-1 ,Саратов 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
