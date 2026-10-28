@@ -4,14 +4,6 @@
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 
-#EXTINF:-1 tvg-id="rossia1-pl1",Россия 1 (Саратов)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-
-#EXTINF:-1 tvg-id="rossia-24",Россия 24 (Саратов)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-
 #EXTINF:-1 ,Саратов 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=VFpR056jrd1nUa_OHAGoIw&e=2075976691&scheme=https
@@ -182,10 +174,6 @@ http://45.145.32.13:20440/match_strana/index.m3u8?token=test
 #EXTINF:0 ,Диалоги О Рыбалке
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2394/index.m3u8
 
-#EXTINF:-1 tvg-id="ntv-pl1",НТВ (Саратов)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-
 #EXTINF:-1 tvg-id="ntv-pl1",НТВ (Самара)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
@@ -193,5 +181,17 @@ https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1  tvg-id="ntv-pl1",НТВ (Астрахань)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="rossia1-pl1",Россия 1 (Саратов)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24",Россия 24 (Саратов)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+
+#EXTINF:-1 tvg-id="ntv-pl1",НТВ (Саратов)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 
 #EXT-X-ENDLIST
